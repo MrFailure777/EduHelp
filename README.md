@@ -34,3 +34,16 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/MrFailure777/EduHelp.git
+2. Open index.html with any browser or use a local server for testing.
+
+⚠️ Disclaimer
+The designs for index.html and login.html pages are inspired from CodePen and adapted for this project. All other files and functionality are original work.
+
+🤝 Contributing
+Feel free to fork the repository and submit pull requests to improve features or fix bugs.
+
+📄 License
+This project is open-source under the MIT License.
+---
+Let me know if you'd like to credit specific CodePen authors or links. That’s a nice touch for transparency.
+
